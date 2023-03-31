@@ -9,5 +9,6 @@ __**Решение:**__
 # PrintArray
 # LenghtStringCheck
 # NewArray
-
+_Для решения были созданы 2 ветки и выполнено их слияние._
 ![Блок - схема](algorithm.png)
+![Задание](task.png)
